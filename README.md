@@ -12,9 +12,9 @@
 
 ## 🎬 Demo
 
-https://github.com/JAXX399/healthcare-symptom-checker/assets/tutorial.mp4
+[▶ Click here to watch the tutorial](./tutorial.mp4)
 
-> **Note:** If the video does not play above, [click here to download and watch the tutorial](./tutorial.mp4).
+> **Note:** To see the video play **inline** in this README, upload `tutorial.mp4` to a GitHub Issue (drag & drop into the comment box) and replace the link above with the CDN URL GitHub provides (starts with `https://github.com/user-attachments/assets/`).
 
 ---
 
