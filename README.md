@@ -10,6 +10,14 @@
 
 ---
 
+## 🎬 Demo
+
+https://github.com/JAXX399/healthcare-symptom-checker/assets/tutorial.mp4
+
+> **Note:** If the video does not play above, [click here to download and watch the tutorial](./tutorial.mp4).
+
+---
+
 ## Overview
 
 Healthcare Symptom Checker provides an educational environment for exploring potential medical conditions based on described symptoms. It maintains full multi-turn conversational context, enabling a persistent dialogue with the AI model across an entire session.
